@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'nyantri'
+
+// nyantri.pondok
+
+[{"ID":"1","nama":"Miftahul Huda","jarak":"1 km","alamat":"Jl. Gading pesantren 38, Malang 65115","img":"http:\/\/4.bp.blogspot.com\/-lf0oNsmdRWw\/Wbdo_91PahI\/AAAAAAAAKQk\/93vbCkoz-t42SdlL5kOfi1sfibCefbUbgCK4BGAYYCw\/s1600\/10301290_990781030948493_2644303107589070883_n-300x225.jpg"}, {"ID":"2","nama":"Pesantren Luhur","jarak":"1 km","alamat":"Jl. Sumbersari No.88 Malang 65145","img":"https:\/\/i1.wp.com\/pesantrenluhur.or.id\/wp-content\/uploads\/2018\/03\/icon.png?w=250&ssl=1"}]
